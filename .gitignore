@@ -1,0 +1,45 @@
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Expo
+.expo/
+.expo-shared/
+*.expo.dev
+
+# Build
+android/
+ios/
+dist/
+web-build/
+build/
+
+# Logs
+*.log
+
+# Metro cache
+.expo/
+.expo-shared/
+*.expo.dev
+.expo-packager-cache/
+.expo-cache/
+
+# Environment files (VERY IMPORTANT)
+.env
+.env.local
+.env.*.local
+
+# Vscode & Editor junk
+.vscode/
+*.swp
+*.swo
+.idea/
+.DS_Store
+
+# Generated audio/images
+*.mp3
+*.wav
+
+# Typescript cache
+*.tsbuildinfo
